@@ -1,12 +1,6 @@
-This is makeindex, version 2.15 [TeX Live 2019] (kpathsea + Thai support).
-Scanning input file bericht.idx...
-!! Input index error (file = bericht.idx, line = 1):
-   -- Extra `@' at position 79 of first argument.
-.
-!! Input index error (file = bericht.idx, line = 7):
-   -- Extra `@' at position 79 of first argument.
-done (12 entries accepted, 2 rejected).
-Sorting entries....done (65 comparisons).
-Generating output file bericht.ind....done (36 lines written, 0 warnings).
+This is makeindex, version 2.15 [TeX Live 2019/W32TeX] (kpathsea + Thai support).
+Scanning input file bericht.idx....done (14 entries accepted, 0 rejected).
+Sorting entries....done (55 comparisons).
+Generating output file bericht.ind....done (40 lines written, 0 warnings).
 Output written in bericht.ind.
 Transcript written in bericht.ilg.
